@@ -4,7 +4,7 @@ import './Cohort.css';
 
 
 class Cohort extends React.Component {
-  //render()
+
 }
 
 export default Cohort;
